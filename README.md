@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm Nidhi Kumari ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80"></p></h1> 
   
  ![](https://komarev.com/ghpvc/?username=Nidhikumari-4&label=Visitors&style=flat&color=ffce3b) [![GitHub followers](https://img.shields.io/github/followers/Nidhikumari-4.svg?style=social&label=Follow)](https://github.com/Nidhikumari-4?tab=followers)
