@@ -12,17 +12,19 @@
 
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/nidhi-singh04/)
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<!-- <a href="https://twitter.com/thepranaygupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Nidhikumari-4" height="30" width="40" /></a> -->
+<a href="https://twitter.com/nidhikumari_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Nidhikumari-4" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nidhi-singh04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nidhikumari-4" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/NidhiSingh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thepranaygupta" height="30" width="40" /></a>
+<a href="https://leetcode.com/nidhi_kumari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Nidhikumari-4" height="30" width="40" /></a>
+<a href="discord.com/users/886670287930785802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9973" height="30" width="40" /></a>
+</p>
 
-<a href="https://www.linkedin.com/in/nidhi-singh04/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Nidhikumari-4" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Nidhikumari-4" height="30" width="40" /></a>
-
-
-<!-- <a href="https://discord.gg/#9973" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#9973" height="30" width="40" /></a> -->
 
 </p>
 
