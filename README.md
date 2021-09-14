@@ -19,7 +19,7 @@
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/nidhi-singh04/) 
 
  
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
   
 <h3 align="left"><b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> Connect with me:</b></h3>
 <p align="left">
@@ -30,7 +30,7 @@
 <a href="https://leetcode.com/nidhi_kumari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Nidhikumari-4" height="30" width="40" /></a>
 <a href="discord.com/users/886670287930785802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9973" height="30" width="40" /></a>
 </p>
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </p>
 
 <h3 align="left"><b>Languages and Tools:</b></h3>
