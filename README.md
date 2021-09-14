@@ -1,16 +1,3 @@
-<!--<h1 align="center">Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"> I'm Nidhi Kumari</h1>
-<h3 align="center">I am an Information Technology Student from India.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nidhikumari-4&label=Profile%20views&color=0e75b6&style=flat" alt="Nidhikumari-4" /> </p>
-
- <img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
-<img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="50" align="right">
-
-https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966 "Link to gif")
--->
-
-<!--<img align="right" height="270px" alt="GIF" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" /> 
- -->
-
 
 <h1 align="center">Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm Nidhi Kumari ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p></h1> 
   
