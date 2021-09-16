@@ -4,7 +4,7 @@
  
 <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70"><b>About me</b></h2>
 
- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+ <img align='right' src="https://i.pinimg.com/originals/66/87/45/66874540d2ea5399936f3554f727172b.gif" width="330">
 
 <h3>I am an Information Technology Student from India.</h3>
 
