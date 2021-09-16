@@ -30,28 +30,29 @@
 <a href="https://leetcode.com/nidhi_kumari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Nidhikumari-4" height="30" width="40" /></a>
 <a href="discord.com/users/886670287930785802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9973" height="30" width="40" /></a>
 </p>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
 </p>
 
 <h3 align="left"><b>Languages and Tools:</b></h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhikumari-4&layout=compact)](https://github.com/Nidhikumari-4)
-
-
-## <img src="https://media.giphy.com/media/nqc71UeLFdr0we228t/giphy.gif" width="60"> **Check out my GitHub repository :-**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nidhikumari-4&repo=Data-Structures-and-Algorithms.)](https://github.com/Nidhikumari-4/Data-Structures-and-Algorithms.)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nidhikumari-4&repo=BOAT-Animation)](https://github.com/Nidhikumari-4/BOAT-Animation)
-
 
 <h2><img src="https://media.giphy.com/media/gJnjM552Kz2uUQvJEf/giphy.gif" width="40"> <b>GitHub Stats</b></h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nidhikumari-4&theme=highcontrast&hide_border=true)](https://github.com/Nidhikumari-4)
-
-
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Nidhikumari-4&theme=react-dark&hide_border=true&area=true)
-
 <br/>
+
+<table>
+
+<td>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Nidhikumari-4&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=blue-green"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nidhikumari-4&show_icons=true&locale=en&layout=compact&theme=blue-green" />
+</td>
+
+</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhikumari-4&theme=blue-green" />
+</p>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Nidhikumari-4&theme=react-dark&hide_border=github_dark)
 
